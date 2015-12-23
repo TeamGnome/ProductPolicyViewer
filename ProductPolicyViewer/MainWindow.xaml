@@ -4,8 +4,8 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ProductPolicyViewer"
-        mc:Ignorable="d"
-        Title="Product Policy Viewer" Height="480" Width="800" Loaded="Window_Loaded" Icon="lock-win10.ico">
+        mc:Ignorable="d" Height="480" Width="800"
+        Title="Product Policy Viewer" Icon="lock-win10.ico" Loaded="Window_Loaded">
    <Window.Resources>
       <Style x:Key="OutputCellStyle">
          <Setter Property="TextBlock.TextWrapping" Value="Wrap" />

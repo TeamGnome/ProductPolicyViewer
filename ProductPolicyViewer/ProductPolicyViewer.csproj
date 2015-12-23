@@ -77,6 +77,11 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ProductPolicy\PPDataType.cs" />
+    <Compile Include="ProductPolicy\PPHeader.cs" />
+    <Compile Include="ProductPolicy\PPObject.cs" />
+    <Compile Include="ProductPolicy\PPRecord.cs" />
+    <Compile Include="ProductPolicy\PPValue.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
